@@ -1,0 +1,15 @@
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.dll
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.pdb
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll

@@ -1,0 +1,553 @@
+2023-03-22 19:09:55.2586 Info Message Template Auto Format enabled
+2023-03-22 19:09:55.5017 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-22 19:09:55.5320 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-22 19:12:08.7835 Info Message Template Auto Format enabled
+2023-03-22 19:12:08.8271 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-22 19:12:08.8439 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-22 19:18:26.4373 Info AppDomain Shutting down. LogFactory closing...
+2023-03-22 19:18:26.5802 Info LogFactory has been closed.
+2023-03-22 20:01:07.5422 Info Message Template Auto Format enabled
+2023-03-22 20:01:07.7045 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-22 20:01:07.7442 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-22 20:02:42.6419 Info Message Template Auto Format enabled
+2023-03-22 20:02:42.8437 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-22 20:02:42.8844 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-22 20:03:20.5374 Info Message Template Auto Format enabled
+2023-03-22 20:03:20.5827 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-22 20:03:20.6001 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-22 20:09:38.4912 Info Message Template Auto Format enabled
+2023-03-22 20:09:38.5334 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-22 20:09:38.5513 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-22 20:22:55.7954 Info Message Template Auto Format enabled
+2023-03-22 20:22:55.8477 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-22 20:22:55.8659 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-23 15:44:35.2157 Info Message Template Auto Format enabled
+2023-03-23 15:44:35.3390 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-23 15:44:35.3578 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-23 16:12:27.9258 Info AppDomain Shutting down. LogFactory closing...
+2023-03-23 16:12:27.9845 Info LogFactory has been closed.
+2023-03-23 17:10:40.1266 Info Message Template Auto Format enabled
+2023-03-23 17:10:40.2200 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-23 17:10:40.2437 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-23 17:10:52.1861 Info Message Template Auto Format enabled
+2023-03-23 17:10:52.2327 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-23 17:10:52.2503 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-23 17:16:36.6088 Info Message Template Auto Format enabled
+2023-03-23 17:16:36.6518 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-23 17:16:36.6686 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-23 17:18:05.0777 Info Message Template Auto Format enabled
+2023-03-23 17:18:05.1218 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-23 17:18:05.1385 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-23 17:22:52.9561 Info Message Template Auto Format enabled
+2023-03-23 17:22:53.0077 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-23 17:22:53.0241 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-23 18:39:19.1559 Info Message Template Auto Format enabled
+2023-03-23 18:39:19.2014 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-23 18:39:19.2183 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-23 18:43:26.0867 Info Message Template Auto Format enabled
+2023-03-23 18:43:26.1315 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-23 18:43:26.1493 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-23 18:47:06.1492 Info Message Template Auto Format enabled
+2023-03-23 18:47:06.1948 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-23 18:47:06.2132 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-03-23 19:12:08.2975 Info Message Template Auto Format enabled
+2023-03-23 19:12:08.4097 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-03-23 19:12:08.4349 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-23 14:54:24.6621 Info Message Template Auto Format enabled
+2023-10-23 14:54:24.9985 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-23 14:54:25.0252 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-23 14:57:07.0652 Info Message Template Auto Format enabled
+2023-10-23 14:57:07.1449 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-23 14:57:07.1683 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-23 15:07:34.7105 Info Message Template Auto Format enabled
+2023-10-23 15:07:34.7709 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-23 15:07:34.7921 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-23 15:09:10.2183 Info Message Template Auto Format enabled
+2023-10-23 15:09:10.2669 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-23 15:09:10.2886 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-23 15:15:43.0090 Info Message Template Auto Format enabled
+2023-10-23 15:15:43.0636 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-23 15:15:43.0856 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-23 15:19:57.0360 Info Message Template Auto Format enabled
+2023-10-23 15:19:57.0952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-23 15:19:57.1194 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-23 15:45:45.0325 Info AppDomain Shutting down. LogFactory closing...
+2023-10-23 15:45:45.3970 Info LogFactory has been closed.
+2023-10-25 15:30:03.3175 Info Message Template Auto Format enabled
+2023-10-25 15:30:03.5311 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-25 15:30:03.5490 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-25 16:48:30.8629 Info AppDomain Shutting down. LogFactory closing...
+2023-10-25 16:48:31.2404 Info LogFactory has been closed.
+2023-10-26 16:36:26.9586 Info Message Template Auto Format enabled
+2023-10-26 16:36:27.1570 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-26 16:36:27.1742 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-26 16:36:38.5265 Info AppDomain Shutting down. LogFactory closing...
+2023-10-26 16:36:38.5866 Info LogFactory has been closed.
+2023-10-26 16:36:55.4046 Info Message Template Auto Format enabled
+2023-10-26 16:36:55.4481 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-26 16:36:55.4658 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-26 17:12:15.5424 Info AppDomain Shutting down. LogFactory closing...
+2023-10-26 17:12:15.9304 Info LogFactory has been closed.
+2023-10-27 21:19:39.9141 Info Message Template Auto Format enabled
+2023-10-27 21:19:40.1419 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-27 21:19:40.1593 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-27 21:27:17.9333 Info AppDomain Shutting down. LogFactory closing...
+2023-10-27 21:27:18.0327 Info LogFactory has been closed.
+2023-10-27 21:48:52.0931 Info Message Template Auto Format enabled
+2023-10-27 21:48:52.1456 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-27 21:48:52.1644 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-27 21:49:02.6637 Info AppDomain Shutting down. LogFactory closing...
+2023-10-27 21:49:02.6752 Info LogFactory has been closed.
+2023-10-27 21:49:08.4739 Info Message Template Auto Format enabled
+2023-10-27 21:49:08.6116 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-27 21:49:08.6422 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-27 21:59:11.3917 Info Message Template Auto Format enabled
+2023-10-27 21:59:11.4374 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-27 21:59:11.4557 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-27 22:44:32.0379 Info Message Template Auto Format enabled
+2023-10-27 22:44:32.2236 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-27 22:44:32.2629 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-28 13:24:14.3739 Info Message Template Auto Format enabled
+2023-10-28 13:24:14.6562 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-28 13:24:14.6831 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-28 13:25:11.8853 Info Message Template Auto Format enabled
+2023-10-28 13:25:11.9329 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-28 13:25:11.9519 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-28 13:32:20.2472 Info AppDomain Shutting down. LogFactory closing...
+2023-10-28 13:32:20.2639 Info LogFactory has been closed.
+2023-10-29 21:26:17.8173 Info Message Template Auto Format enabled
+2023-10-29 21:26:18.1658 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-29 21:26:18.2025 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-30 17:54:15.4409 Info Message Template Auto Format enabled
+2023-10-30 17:54:15.7253 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-30 17:54:15.7490 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-30 18:08:52.2524 Info Message Template Auto Format enabled
+2023-10-30 18:08:52.3010 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-30 18:08:52.3192 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-30 18:10:28.8569 Info AppDomain Shutting down. LogFactory closing...
+2023-10-30 18:10:28.8569 Info LogFactory has been closed.
+2023-10-30 18:10:37.8573 Info Message Template Auto Format enabled
+2023-10-30 18:10:37.9066 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-30 18:10:37.9245 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-30 18:28:25.1953 Info Message Template Auto Format enabled
+2023-10-30 18:28:25.2412 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-10-30 18:28:25.2594 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-10-30 18:31:34.4748 Info AppDomain Shutting down. LogFactory closing...
+2023-10-30 18:31:34.8420 Info LogFactory has been closed.
+2023-11-02 20:48:22.6810 Info Message Template Auto Format enabled
+2023-11-02 20:48:22.9662 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 20:48:22.9920 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 20:49:00.9073 Info Message Template Auto Format enabled
+2023-11-02 20:49:01.0498 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 20:49:01.0820 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 20:51:50.3803 Info Message Template Auto Format enabled
+2023-11-02 20:51:50.4215 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 20:51:50.4380 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 21:06:34.8243 Info AppDomain Shutting down. LogFactory closing...
+2023-11-02 21:06:34.8404 Info LogFactory has been closed.
+2023-11-02 21:40:34.9209 Info Message Template Auto Format enabled
+2023-11-02 21:40:35.0500 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 21:40:35.0835 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 21:40:57.4583 Info Message Template Auto Format enabled
+2023-11-02 21:40:57.5640 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 21:40:57.6300 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 22:18:48.8583 Info Message Template Auto Format enabled
+2023-11-02 22:18:49.0031 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 22:18:49.0460 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 22:33:04.0119 Info Message Template Auto Format enabled
+2023-11-02 22:33:04.1900 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 22:33:04.2157 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 22:33:18.2006 Info Message Template Auto Format enabled
+2023-11-02 22:33:18.3267 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 22:33:18.3699 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 22:54:36.6900 Info Message Template Auto Format enabled
+2023-11-02 22:54:37.8613 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 22:54:37.8908 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 22:56:45.6919 Info Message Template Auto Format enabled
+2023-11-02 22:56:45.7832 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 22:56:45.8061 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 23:13:10.2292 Info Message Template Auto Format enabled
+2023-11-02 23:13:10.3450 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 23:13:10.3682 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-02 23:13:35.5901 Info Message Template Auto Format enabled
+2023-11-02 23:13:35.7000 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-02 23:13:35.7297 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-03 01:26:11.6225 Info Message Template Auto Format enabled
+2023-11-03 01:26:11.8321 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-03 01:26:11.8637 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-03 01:26:22.0012 Info Message Template Auto Format enabled
+2023-11-03 01:26:22.1392 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-03 01:26:22.2225 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-04 22:31:36.9975 Info Message Template Auto Format enabled
+2023-11-04 22:31:37.5815 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-04 22:31:37.6188 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-04 22:32:36.3153 Info Message Template Auto Format enabled
+2023-11-04 22:32:36.4536 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-04 22:32:36.5059 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-24 23:29:17.3076 Info Message Template Auto Format enabled
+2023-11-24 23:29:17.6986 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-24 23:29:17.7246 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-25 21:06:04.4281 Info Message Template Auto Format enabled
+2023-11-25 21:06:04.7670 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-25 21:06:04.7950 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-27 01:30:24.1285 Info Message Template Auto Format enabled
+2023-11-27 01:30:24.4402 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-27 01:30:24.4640 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-27 01:43:34.9799 Info Message Template Auto Format enabled
+2023-11-27 01:43:35.1362 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-27 01:43:35.1726 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-27 02:07:28.9417 Info Message Template Auto Format enabled
+2023-11-27 02:07:29.2155 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-27 02:07:29.2722 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-27 02:08:52.3569 Info Message Template Auto Format enabled
+2023-11-27 02:08:52.5494 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-27 02:08:52.5958 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-27 02:10:19.3037 Info Message Template Auto Format enabled
+2023-11-27 02:10:19.5576 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-27 02:10:19.6164 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-27 02:11:58.1975 Info Message Template Auto Format enabled
+2023-11-27 02:11:58.2468 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-11-27 02:11:58.2690 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-11-27 02:12:17.4031 Info AppDomain Shutting down. LogFactory closing...
+2023-11-27 02:12:17.4031 Info LogFactory has been closed.
+2023-12-03 13:56:05.7844 Info Message Template Auto Format enabled
+2023-12-03 13:56:06.2002 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 13:56:06.2256 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 13:59:05.1195 Info Message Template Auto Format enabled
+2023-12-03 13:59:05.2955 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 13:59:05.3300 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 14:00:04.6891 Info Message Template Auto Format enabled
+2023-12-03 14:00:04.8181 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 14:00:04.8618 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 14:01:32.7635 Info Message Template Auto Format enabled
+2023-12-03 14:01:32.8909 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 14:01:32.9350 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 14:37:14.7905 Info Message Template Auto Format enabled
+2023-12-03 14:37:15.0510 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 14:37:15.1065 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 14:43:33.5090 Info Message Template Auto Format enabled
+2023-12-03 14:43:33.6308 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 14:43:33.6554 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 15:36:01.6328 Info Message Template Auto Format enabled
+2023-12-03 15:36:01.9293 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 15:36:01.9526 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 15:49:59.0394 Info Message Template Auto Format enabled
+2023-12-03 15:49:59.1451 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 15:49:59.1890 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 15:54:06.0729 Info Message Template Auto Format enabled
+2023-12-03 15:54:06.2710 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 15:54:06.3214 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 16:12:33.0343 Info Message Template Auto Format enabled
+2023-12-03 16:12:33.1952 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 16:12:33.2313 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 16:13:04.5314 Info Message Template Auto Format enabled
+2023-12-03 16:13:04.6788 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 16:13:04.7252 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-03 16:18:33.8300 Info Message Template Auto Format enabled
+2023-12-03 16:18:34.0362 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-03 16:18:34.0729 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-05 14:10:57.0535 Info Message Template Auto Format enabled
+2023-12-05 14:10:57.3960 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 14:10:57.4207 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-05 14:13:45.3773 Info Message Template Auto Format enabled
+2023-12-05 14:13:45.6271 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 14:13:45.6861 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-05 14:35:20.3378 Info Message Template Auto Format enabled
+2023-12-05 14:35:20.4409 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 14:35:20.4625 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-05 14:39:53.8287 Info Message Template Auto Format enabled
+2023-12-05 14:39:53.9320 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 14:39:53.9577 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-05 15:36:57.5161 Info Message Template Auto Format enabled
+2023-12-05 15:36:57.6339 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-05 15:36:57.6570 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-05 18:47:40.5988 Info AppDomain Shutting down. LogFactory closing...
+2023-12-05 18:47:40.7409 Info LogFactory has been closed.
+2023-12-06 18:15:16.6904 Info Message Template Auto Format enabled
+2023-12-06 18:15:17.0125 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 18:15:17.0437 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-06 18:23:55.0448 Info Message Template Auto Format enabled
+2023-12-06 18:23:55.1734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 18:23:55.1973 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-06 18:24:47.1783 Info Message Template Auto Format enabled
+2023-12-06 18:24:47.3849 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 18:24:47.4404 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-06 18:32:47.2179 Info Message Template Auto Format enabled
+2023-12-06 18:32:47.4709 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-06 18:32:47.5326 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 12:01:16.7917 Info Message Template Auto Format enabled
+2023-12-07 12:01:17.1223 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 12:01:17.1490 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 12:05:42.3006 Info Message Template Auto Format enabled
+2023-12-07 12:05:42.4642 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 12:05:42.4897 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 14:53:26.5803 Info Message Template Auto Format enabled
+2023-12-07 14:53:27.1070 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 14:53:27.1767 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 15:16:57.7289 Info Message Template Auto Format enabled
+2023-12-07 15:16:57.8796 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 15:16:57.9036 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 15:45:37.0243 Info Message Template Auto Format enabled
+2023-12-07 15:45:37.1643 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 15:45:37.2070 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 15:53:33.3102 Info Message Template Auto Format enabled
+2023-12-07 15:53:33.4399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 15:53:33.4656 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 16:07:39.7165 Info Message Template Auto Format enabled
+2023-12-07 16:07:39.8776 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 16:07:39.9231 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 16:24:09.5086 Info Message Template Auto Format enabled
+2023-12-07 16:24:09.6427 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 16:24:09.6738 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 16:36:16.5442 Info Message Template Auto Format enabled
+2023-12-07 16:36:16.6985 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 16:36:16.7249 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 16:38:41.6994 Info Message Template Auto Format enabled
+2023-12-07 16:38:41.8546 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 16:38:41.8953 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 16:40:09.4231 Info AppDomain Shutting down. LogFactory closing...
+2023-12-07 16:40:09.5455 Info LogFactory has been closed.
+2023-12-07 16:41:54.2057 Info Message Template Auto Format enabled
+2023-12-07 16:41:54.3724 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 16:41:54.4141 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 16:47:05.8266 Info Message Template Auto Format enabled
+2023-12-07 16:47:05.9896 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 16:47:06.0309 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 16:48:08.4221 Info Message Template Auto Format enabled
+2023-12-07 16:48:08.5758 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 16:48:08.6422 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-07 17:11:27.1129 Info Message Template Auto Format enabled
+2023-12-07 17:11:27.2405 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-07 17:11:27.2748 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-10 17:11:13.9304 Info Message Template Auto Format enabled
+2023-12-10 17:11:14.0190 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-10 17:11:14.0369 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-10 17:11:15.6625 Info AppDomain Shutting down. LogFactory closing...
+2023-12-10 17:11:15.6740 Info LogFactory has been closed.
+2023-12-11 14:55:20.3959 Info Message Template Auto Format enabled
+2023-12-11 14:55:20.4687 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 14:55:20.4877 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-11 14:55:25.0205 Info AppDomain Shutting down. LogFactory closing...
+2023-12-11 14:55:25.0326 Info LogFactory has been closed.
+2023-12-11 19:08:41.0662 Info Message Template Auto Format enabled
+2023-12-11 19:08:41.1653 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-11 19:08:41.1864 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-11 19:08:42.9193 Info AppDomain Shutting down. LogFactory closing...
+2023-12-11 19:08:42.9297 Info LogFactory has been closed.
+2023-12-12 16:41:40.6861 Info Message Template Auto Format enabled
+2023-12-12 16:41:40.7715 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-12 16:41:40.7941 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-12 16:41:43.9235 Info AppDomain Shutting down. LogFactory closing...
+2023-12-12 16:41:43.9336 Info LogFactory has been closed.
+2023-12-15 16:40:10.7424 Info Message Template Auto Format enabled
+2023-12-15 16:40:11.0650 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-15 16:40:11.0885 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-15 16:49:45.1591 Info Message Template Auto Format enabled
+2023-12-15 16:49:45.2828 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-15 16:49:45.3063 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2023-12-15 17:14:02.8559 Info Message Template Auto Format enabled
+2023-12-15 17:14:02.9815 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-12-15 17:14:03.0323 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-25 01:24:58.6576 Info Message Template Auto Format enabled
+2024-01-25 01:24:58.9362 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 01:24:58.9598 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-25 02:07:16.9808 Info Message Template Auto Format enabled
+2024-01-25 02:07:17.1318 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 02:07:17.1675 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-25 02:07:38.9421 Info Message Template Auto Format enabled
+2024-01-25 02:07:39.0293 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 02:07:39.0682 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-25 02:14:41.8316 Info Message Template Auto Format enabled
+2024-01-25 02:14:41.9716 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 02:14:42.0037 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-25 02:36:15.6025 Info Message Template Auto Format enabled
+2024-01-25 02:36:15.7127 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 02:36:15.7398 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-25 02:42:10.4339 Info Message Template Auto Format enabled
+2024-01-25 02:42:10.5235 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 02:42:10.5514 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-25 02:54:59.6479 Info Message Template Auto Format enabled
+2024-01-25 02:54:59.7711 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 02:54:59.8203 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-25 04:09:49.6566 Info AppDomain Shutting down. LogFactory closing...
+2024-01-25 04:09:49.6898 Info LogFactory has been closed.
+2024-01-25 19:31:35.7941 Info Message Template Auto Format enabled
+2024-01-25 19:31:36.0917 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 19:31:36.1174 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-25 19:43:18.3892 Info Message Template Auto Format enabled
+2024-01-25 19:43:18.5067 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-25 19:43:18.5436 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 00:36:17.3122 Info Message Template Auto Format enabled
+2024-01-27 00:36:17.3890 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 00:36:17.4071 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 00:36:19.1979 Info AppDomain Shutting down. LogFactory closing...
+2024-01-27 00:36:19.2128 Info LogFactory has been closed.
+2024-01-27 00:36:57.4541 Info Message Template Auto Format enabled
+2024-01-27 00:36:57.4995 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 00:36:57.5171 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 00:37:00.3522 Info AppDomain Shutting down. LogFactory closing...
+2024-01-27 00:37:00.3625 Info LogFactory has been closed.
+2024-01-27 03:26:26.7204 Info Message Template Auto Format enabled
+2024-01-27 03:26:26.9789 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 03:26:27.0050 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 03:28:11.8261 Info Message Template Auto Format enabled
+2024-01-27 03:28:11.9240 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 03:28:11.9587 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 03:59:20.5307 Info Message Template Auto Format enabled
+2024-01-27 03:59:20.6377 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 03:59:20.6871 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 04:49:18.6009 Info Message Template Auto Format enabled
+2024-01-27 04:49:18.6448 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 04:49:18.6621 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 04:49:39.0170 Info Message Template Auto Format enabled
+2024-01-27 04:49:39.1139 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 04:49:39.1429 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 04:49:54.3307 Info Message Template Auto Format enabled
+2024-01-27 04:49:54.4783 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 04:49:54.5227 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 04:54:27.3236 Info Message Template Auto Format enabled
+2024-01-27 04:54:27.4318 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 04:54:27.4684 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 04:56:34.4888 Info Message Template Auto Format enabled
+2024-01-27 04:56:34.6068 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 04:56:34.6375 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 05:00:29.3927 Info Message Template Auto Format enabled
+2024-01-27 05:00:29.4986 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 05:00:29.5262 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 05:03:20.3738 Info Message Template Auto Format enabled
+2024-01-27 05:03:20.4893 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 05:03:20.5406 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 05:28:23.9289 Info Message Template Auto Format enabled
+2024-01-27 05:28:24.0179 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 05:28:24.0428 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-27 05:29:52.0527 Info Message Template Auto Format enabled
+2024-01-27 05:29:52.1732 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-27 05:29:52.2078 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-28 16:03:24.9444 Info Message Template Auto Format enabled
+2024-01-28 16:03:25.2086 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-28 16:03:25.2378 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-28 16:06:47.3973 Info Message Template Auto Format enabled
+2024-01-28 16:06:47.4841 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-28 16:06:47.5141 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-01-28 16:10:00.7023 Info Message Template Auto Format enabled
+2024-01-28 16:10:00.7944 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-01-28 16:10:00.8197 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 02:12:01.6059 Info Message Template Auto Format enabled
+2024-02-02 02:12:01.6876 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 02:12:01.7036 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 02:12:03.1613 Info AppDomain Shutting down. LogFactory closing...
+2024-02-02 02:12:03.1613 Info LogFactory has been closed.
+2024-02-02 02:12:17.2012 Info Message Template Auto Format enabled
+2024-02-02 02:12:17.2437 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 02:12:17.2603 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 02:12:19.6115 Info AppDomain Shutting down. LogFactory closing...
+2024-02-02 02:12:19.6204 Info LogFactory has been closed.
+2024-02-02 02:12:38.8641 Info Message Template Auto Format enabled
+2024-02-02 02:12:38.9062 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 02:12:38.9226 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 02:12:39.8741 Info AppDomain Shutting down. LogFactory closing...
+2024-02-02 02:12:39.8846 Info LogFactory has been closed.
+2024-02-02 02:13:29.0031 Info Message Template Auto Format enabled
+2024-02-02 02:13:29.0466 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 02:13:29.0629 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 02:13:30.5182 Info AppDomain Shutting down. LogFactory closing...
+2024-02-02 02:13:30.5284 Info LogFactory has been closed.
+2024-02-02 03:47:23.5532 Info Message Template Auto Format enabled
+2024-02-02 03:47:23.8323 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 03:47:23.8592 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 04:00:15.5466 Info Message Template Auto Format enabled
+2024-02-02 04:00:15.6493 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 04:00:15.6910 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 04:12:47.7232 Info Message Template Auto Format enabled
+2024-02-02 04:12:47.7657 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 04:12:47.7826 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 04:12:48.9164 Info AppDomain Shutting down. LogFactory closing...
+2024-02-02 04:12:48.9164 Info LogFactory has been closed.
+2024-02-02 04:13:15.3766 Info Message Template Auto Format enabled
+2024-02-02 04:13:15.4193 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 04:13:15.4410 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 04:13:16.5242 Info AppDomain Shutting down. LogFactory closing...
+2024-02-02 04:13:16.5242 Info LogFactory has been closed.
+2024-02-02 04:33:53.2844 Info Message Template Auto Format enabled
+2024-02-02 04:33:53.4329 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 04:33:53.4560 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 04:40:38.2911 Info Message Template Auto Format enabled
+2024-02-02 04:40:38.4252 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 04:40:38.4681 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 04:51:15.3256 Info Message Template Auto Format enabled
+2024-02-02 04:51:15.4394 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 04:51:15.4726 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 04:52:59.9105 Info Message Template Auto Format enabled
+2024-02-02 04:53:00.0158 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 04:53:00.0524 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 04:53:50.8982 Info Message Template Auto Format enabled
+2024-02-02 04:53:50.9825 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 04:53:51.0069 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 04:54:24.6497 Info Message Template Auto Format enabled
+2024-02-02 04:54:24.7649 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 04:54:24.7934 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-02 04:58:13.2377 Info Message Template Auto Format enabled
+2024-02-02 04:58:13.3418 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-02 04:58:13.3707 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 17:40:14.9478 Info Message Template Auto Format enabled
+2024-02-16 17:40:15.6432 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 17:40:15.6692 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 17:44:41.4088 Info Message Template Auto Format enabled
+2024-02-16 17:44:41.4876 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 17:44:41.5128 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 17:45:34.7373 Info Message Template Auto Format enabled
+2024-02-16 17:45:34.8219 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 17:45:34.8501 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 17:58:57.2691 Info Message Template Auto Format enabled
+2024-02-16 17:58:57.3853 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 17:58:57.4211 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 18:09:14.1449 Info Message Template Auto Format enabled
+2024-02-16 18:09:14.2641 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 18:09:14.2994 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 18:09:30.4691 Info Message Template Auto Format enabled
+2024-02-16 18:09:30.5108 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 18:09:30.5274 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 18:18:20.5408 Info Message Template Auto Format enabled
+2024-02-16 18:18:20.6583 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 18:18:20.6948 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 18:23:46.6762 Info Message Template Auto Format enabled
+2024-02-16 18:23:46.8038 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 18:23:46.8297 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 18:35:03.1399 Info Message Template Auto Format enabled
+2024-02-16 18:35:03.2826 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 18:35:03.3151 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 18:35:33.9213 Info Message Template Auto Format enabled
+2024-02-16 18:35:34.0340 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 18:35:34.0875 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 18:38:48.4188 Info Message Template Auto Format enabled
+2024-02-16 18:38:48.5254 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 18:38:48.5591 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 18:40:40.5834 Info Message Template Auto Format enabled
+2024-02-16 18:40:40.6663 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 18:40:40.7092 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 19:48:11.5780 Info Message Template Auto Format enabled
+2024-02-16 19:48:11.8312 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 19:48:11.8548 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 19:50:04.7581 Info Message Template Auto Format enabled
+2024-02-16 19:50:04.8680 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 19:50:04.9036 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-02-16 19:51:44.0017 Info Message Template Auto Format enabled
+2024-02-16 19:51:44.0827 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-02-16 19:51:44.1057 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-04-06 06:13:37.0396 Info Message Template Auto Format enabled
+2024-04-06 06:13:37.3329 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-04-06 06:13:37.3575 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-04-06 06:25:27.1402 Info AppDomain Shutting down. LogFactory closing...
+2024-04-06 06:25:27.2421 Info LogFactory has been closed.
+2024-05-09 18:07:09.8366 Info Message Template Auto Format enabled
+2024-05-09 18:07:09.9522 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-09 18:07:09.9890 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-05-15 04:23:17.5666 Info Message Template Auto Format enabled
+2024-05-15 04:23:17.7225 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-15 04:23:17.7475 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-05-17 02:38:31.0374 Info Message Template Auto Format enabled
+2024-05-17 02:38:31.2095 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-17 02:38:31.2446 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config
+2024-05-17 02:46:37.7425 Info Message Template Auto Format enabled
+2024-05-17 02:46:37.8292 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-05-17 02:46:37.8648 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\WebApi\nlog.config

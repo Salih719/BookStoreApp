@@ -1,0 +1,235 @@
+2024-05-17 02:43:23.7928 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-16T23:43:23.7673991Z"}
+2024-05-17 02:43:41.9878 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-16T23:43:41.9876429Z"}
+2024-05-17 02:43:54.3491 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-16T23:43:54.3490665Z"}
+2024-05-17 02:43:54.5462 ERROR Something went wrong:  System.ArgumentException: Value cannot be empty. (Parameter 'ordering')
+   at System.Linq.Dynamic.Core.Validation.Check.NotNullOrWhiteSpace(String value, String parameterName)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.InternalOrderBy(IQueryable source, ParsingConfig config, String ordering, Object comparer, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy(IQueryable source, ParsingConfig config, String ordering, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy[TSource](IQueryable`1 source, ParsingConfig config, String ordering, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy[TSource](IQueryable`1 source, String ordering, Object[] args)
+   at Repositories.EfCore.Extensions.BookRepositoryExtensions.Sort(IQueryable`1 books, String orderByQueryString) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\EfCore\Extensions\BookRepositoryExtensions.cs:line 45
+   at Repositories.EfCore.BookRepository.GetAllBooksAsync(BookParameters bookParameters, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\EfCore\BookRepository.cs:line 25
+   at Services.BookManager.GetAllBooksAsync(LinkParameters linkParamteters, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Services\BookManager.cs:line 62
+   at Presentation.Controllers.BooksController.GetAllBooksAsync(BookParameters bookParameters) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Presentation\Controllers\BooksController.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-05-17 02:44:02.0202 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-16T23:44:02.0202604Z"}
+2024-05-17 02:44:02.1056 ERROR Something went wrong:  System.ArgumentException: Value cannot be empty. (Parameter 'ordering')
+   at System.Linq.Dynamic.Core.Validation.Check.NotNullOrWhiteSpace(String value, String parameterName)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.InternalOrderBy(IQueryable source, ParsingConfig config, String ordering, Object comparer, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy(IQueryable source, ParsingConfig config, String ordering, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy[TSource](IQueryable`1 source, ParsingConfig config, String ordering, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy[TSource](IQueryable`1 source, String ordering, Object[] args)
+   at Repositories.EfCore.Extensions.BookRepositoryExtensions.Sort(IQueryable`1 books, String orderByQueryString) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\EfCore\Extensions\BookRepositoryExtensions.cs:line 45
+   at Repositories.EfCore.BookRepository.GetAllBooksAsync(BookParameters bookParameters, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\EfCore\BookRepository.cs:line 25
+   at Services.BookManager.GetAllBooksAsync(LinkParameters linkParamteters, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Services\BookManager.cs:line 62
+   at Presentation.Controllers.BooksController.GetAllBooksAsync(BookParameters bookParameters) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Presentation\Controllers\BooksController.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-05-17 02:44:07.1059 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-16T23:44:07.1058934Z"}
+2024-05-17 02:44:07.1908 ERROR Something went wrong:  System.ArgumentException: Value cannot be empty. (Parameter 'ordering')
+   at System.Linq.Dynamic.Core.Validation.Check.NotNullOrWhiteSpace(String value, String parameterName)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.InternalOrderBy(IQueryable source, ParsingConfig config, String ordering, Object comparer, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy(IQueryable source, ParsingConfig config, String ordering, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy[TSource](IQueryable`1 source, ParsingConfig config, String ordering, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy[TSource](IQueryable`1 source, String ordering, Object[] args)
+   at Repositories.EfCore.Extensions.BookRepositoryExtensions.Sort(IQueryable`1 books, String orderByQueryString) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\EfCore\Extensions\BookRepositoryExtensions.cs:line 45
+   at Repositories.EfCore.BookRepository.GetAllBooksAsync(BookParameters bookParameters, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\EfCore\BookRepository.cs:line 25
+   at Services.BookManager.GetAllBooksAsync(LinkParameters linkParamteters, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Services\BookManager.cs:line 62
+   at Presentation.Controllers.BooksController.GetAllBooksAsync(BookParameters bookParameters) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Presentation\Controllers\BooksController.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-05-17 02:44:11.5280 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-16T23:44:11.5279658Z"}
+2024-05-17 02:44:11.6112 ERROR Something went wrong:  System.ArgumentException: Value cannot be empty. (Parameter 'ordering')
+   at System.Linq.Dynamic.Core.Validation.Check.NotNullOrWhiteSpace(String value, String parameterName)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.InternalOrderBy(IQueryable source, ParsingConfig config, String ordering, Object comparer, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy(IQueryable source, ParsingConfig config, String ordering, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy[TSource](IQueryable`1 source, ParsingConfig config, String ordering, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy[TSource](IQueryable`1 source, String ordering, Object[] args)
+   at Repositories.EfCore.Extensions.BookRepositoryExtensions.Sort(IQueryable`1 books, String orderByQueryString) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\EfCore\Extensions\BookRepositoryExtensions.cs:line 45
+   at Repositories.EfCore.BookRepository.GetAllBooksAsync(BookParameters bookParameters, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\EfCore\BookRepository.cs:line 25
+   at Services.BookManager.GetAllBooksAsync(LinkParameters linkParamteters, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Services\BookManager.cs:line 62
+   at Presentation.Controllers.BooksController.GetAllBooksAsync(BookParameters bookParameters) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Presentation\Controllers\BooksController.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-05-17 02:44:15.1546 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-16T23:44:15.1546512Z"}
+2024-05-17 02:44:15.2407 ERROR Something went wrong:  System.ArgumentException: Value cannot be empty. (Parameter 'ordering')
+   at System.Linq.Dynamic.Core.Validation.Check.NotNullOrWhiteSpace(String value, String parameterName)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.InternalOrderBy(IQueryable source, ParsingConfig config, String ordering, Object comparer, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy(IQueryable source, ParsingConfig config, String ordering, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy[TSource](IQueryable`1 source, ParsingConfig config, String ordering, Object[] args)
+   at System.Linq.Dynamic.Core.DynamicQueryableExtensions.OrderBy[TSource](IQueryable`1 source, String ordering, Object[] args)
+   at Repositories.EfCore.Extensions.BookRepositoryExtensions.Sort(IQueryable`1 books, String orderByQueryString) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\EfCore\Extensions\BookRepositoryExtensions.cs:line 45
+   at Repositories.EfCore.BookRepository.GetAllBooksAsync(BookParameters bookParameters, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Repositories\EfCore\BookRepository.cs:line 25
+   at Services.BookManager.GetAllBooksAsync(LinkParameters linkParamteters, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Services\BookManager.cs:line 62
+   at Presentation.Controllers.BooksController.GetAllBooksAsync(BookParameters bookParameters) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Presentation\Controllers\BooksController.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-05-17 02:44:30.8117 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-16T23:44:30.811741Z"}
+2024-05-17 02:44:44.9792 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetAllBooksWithDetails","Id":null,"CreateAt":"2024-05-16T23:44:44.9792368Z"}
+2024-05-17 02:45:06.0978 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"21","CreateAt":"2024-05-16T23:45:06.0978016Z"}
+2024-05-17 02:45:06.2115 ERROR Something went wrong:  Entities.Exceptions.BookNotFoundException: The book with id : 21 could not found.
+   at Services.BookManager.GetOneBookByIdAndCheckExists(Int32 id, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Services\BookManager.cs:line 123
+   at Services.BookManager.GetOneBookByIdAsync(Int32 id, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Services\BookManager.cs:line 89
+   at Presentation.Controllers.BooksController.GetOneBookAsync(Int32 id) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Presentation\Controllers\BooksController.cs:line 76
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-05-17 02:45:10.8431 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"20","CreateAt":"2024-05-16T23:45:10.8431437Z"}
+2024-05-17 02:45:13.9524 INFO {"ModelName":"OnActionExecuting","Controller":"Books","Action":"GetOneBook","Id":"1","CreateAt":"2024-05-16T23:45:13.952372Z"}
+2024-05-17 02:45:56.6444 ERROR Something went wrong:  Entities.Exceptions.CategoryNotFoundException: Category with id : 4 could not found.
+   at Services.CategoryManager.GetOneCategoryByIdAsync(Int32 id, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Services\CategoryManager.cs:line 37
+   at Presentation.Controllers.CategoriesController.GetOneCategoryAsync(Int32 id) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Presentation\Controllers\CategoriesController.cs:line 34
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+2024-05-17 02:48:45.2735 ERROR Something went wrong:  Entities.Exceptions.CategoryNotFoundException: Category with id : 200 could not found.
+   at Services.CategoryManager.GetOneCategoryByIdAsync(Int32 id, Boolean trackChanges) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Services\CategoryManager.cs:line 37
+   at Presentation.Controllers.CategoriesController.GetOneCategoryAsync(Int32 id) in D:\Projeler\Asp.NetCore_Btk\projeler\basics\bsStoreApp\Presentation\Controllers\CategoriesController.cs:line 34
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.HandleResponse(HttpContext httpContext)
+   at Marvin.Cache.Headers.HttpCacheHeadersMiddleware.Invoke(HttpContext httpContext, IValidatorValueInvalidator validatorValueInvalidator)
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 123
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
